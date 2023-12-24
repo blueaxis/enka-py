@@ -92,6 +92,11 @@ class HTTPClient:
         if key != '':
             warnings.warn("'key' has depercated.")
 
+        # Data repository
+        self.__repository: str = "mrwan200/enkanetwork.py-data"
+        self.__repository_branch: str = "master"
+        self.__repository_exports: str = "exports"
+
     async def close(self) -> None:
         if self.__session is not MISSING:
             await self.__session.close()
@@ -213,10 +218,19 @@ class HTTPClient:
     def fetch_asset(self, folder: str, filename: str) -> Response[DefaultPayload]: # noqa
         r = Route(
             'GET',
-            f'/mrwan200/enkanetwork.py-data/master/exports/{folder}/{filename}', # noqa
+            f'/{self.__repository}/{self.__repository_branch}/{self.__repository_exports}/{folder}/{filename}', # noqa
             endpoint='assets'
         )
         return self.request(r)
+
+    def set_assets_repository(self, repo: str):
+        self.__repository = repo
+
+    def set_assets_repository_branch(self, branch: str):
+        self.__repository_branch = branch
+    
+    def set_assets_repository_exports(self, exports: str):
+        self.__repository_exports = exports
 
     async def read_from_url(self, url: str) -> bytes:
         async with self.__session.get(url) as resp:

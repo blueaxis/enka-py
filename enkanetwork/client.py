@@ -382,6 +382,15 @@ class EnkaNetworkAPI:
         new_data = await self.fetch_raw_data(uid)
         return await merge_raw_data(new_data, old_data)
 
+    def set_assets_repository(self, repo: str):
+        self.__http.set_assets_repository(repo)
+
+    def set_assets_repository_branch(self, branch: str):
+        self.__http.set_assets_repository_branch(branch)
+    
+    def set_assets_repository_exports(self, exports: str):
+        self.__http.set_assets_repository_exports(exports)
+
     async def update_assets(self) -> None:
         print("Updating assets...")
         self.LOGGER.debug("Downloading new content...")
