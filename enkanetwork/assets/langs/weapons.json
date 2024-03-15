@@ -832,6 +832,23 @@
         "IT": "Fulgore delle placide acque",
         "TH": "Splendor of Tranquil Waters"
     },
+    "1818340435": {
+        "EN": "Uraku Misugiri",
+        "ID": "Uraku Misugiri",
+        "TR": "Uraku Misugiri",
+        "FR": "Uraku Misugiri",
+        "CHT": "有樂御簾切",
+        "VI": "Uraku Misugiri",
+        "CHS": "有乐御簾切",
+        "ES": "Cortatelones de Urakusai",
+        "JP": "有楽御簾切",
+        "KR": "우라쿠의 미스기리",
+        "DE": "Uraku Misugiri",
+        "RU": "Ураку мисугири",
+        "PT": "Urakugo Rensai",
+        "IT": "Uraku Misugiri",
+        "TH": "Uraku Misugiri"
+    },
     "2666951267": {
         "EN": "Waster Greatsword",
         "ID": "Waster Greatsword",
@@ -1886,6 +1903,23 @@
         "IT": "Equa ricompensa",
         "TH": "Rightful Reward"
     },
+    "2847771107": {
+        "EN": "Dialogues of the Desert Sages",
+        "ID": "Dialogues of the Desert Sages",
+        "TR": "Çöl Alimleriyle Sohbet",
+        "FR": "Dialogues des sages du désert",
+        "CHT": "沙中偉賢的對答",
+        "VI": "Đối Thoại Của Hiền Giả Sa Mạc",
+        "CHS": "沙中伟贤的对答",
+        "ES": "Discusión de los Sabios del Desierto",
+        "JP": "砂中の賢者達の問答",
+        "KR": "위대한 사막 현자의 대답",
+        "DE": "Dialoge der Weisen der Wüste",
+        "RU": "Диалог пустынных мудрецов",
+        "PT": "Conversas dos Sábios do Deserto",
+        "IT": "Dialoghi dei saggi del deserto",
+        "TH": "Dialogues of the Desert Sages"
+    },
     "882305891": {
         "EN": "Prospector's Drill",
         "ID": "Prospector's Drill",
@@ -2735,6 +2769,23 @@
         "PT": "Rito do Fluxo Eterno",
         "IT": "Tomo del flusso perenne",
         "TH": "Tome of the Eternal Flow"
+    },
+    "3660626387": {
+        "EN": "Crane's Echoing Call",
+        "ID": "Crane's Echoing Call",
+        "TR": "Turnam Selam Götür",
+        "FR": "Écho de la grue",
+        "CHT": "鶴鳴餘音",
+        "VI": "Dư Âm Tiếng Hạc",
+        "CHS": "鹤鸣余音",
+        "ES": "Reverberación de la Grulla",
+        "JP": "鶴鳴の余韻",
+        "KR": "학의 여음",
+        "DE": "Widerhallender Ruf des Kranichs",
+        "RU": "Звонкий клич журавля",
+        "PT": "Chamado Ecoante da Garça",
+        "IT": "Canto della gru echeggiante",
+        "TH": "Crane's Echoing Call"
     },
     "3600623979": {
         "EN": "Hunter's Bow",
