@@ -58,7 +58,8 @@ def validate_uid(uid: str) -> bool:
     """
         Validate UID
     """
-    return uid.isdigit() and re.match(r"^(18|[1-35-9])\d{8}$", uid) is not None
+    return len(uid) == 9 and uid.isdigit() and re.match(
+        r"([1,2,5-9])\d{8}", uid)
 
 
 def get_default_header():
