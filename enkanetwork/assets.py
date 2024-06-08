@@ -166,6 +166,16 @@ class Assets:
 
         return data.images
 
+    @classmethod
+    def avatar_id(cls, id: int) -> int:
+        LOGGER.debug(f"Getting avatar with id: {id}")
+        data = cls.DATA["avatars"].get(str(id))
+
+        if not data:
+            LOGGER.error(f"Avatar not found with id: {id}")
+            return 0
+        return data["unlockParam"]
+
     @staticmethod
     def create_character_icon(path: str) -> assets.CharacterIconAsset:
         return assets.CharacterIconAsset(

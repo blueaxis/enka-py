@@ -1,0 +1,482 @@
+{
+    "1": {
+        "icon": "UI_AvatarIcon_PlayerBoy_Circle",
+        "unlockParam": 10000005
+    },
+    "2": {
+        "icon": "UI_AvatarIcon_PlayerGirl_Circle",
+        "unlockParam": 10000007
+    },
+    "100": {
+        "icon": "UI_AvatarIcon_Ambor_Circle",
+        "unlockParam": 10000021
+    },
+    "101": {
+        "icon": "UI_AvatarIcon_AmborCostumeWic_Circle",
+        "unlockParam": 202101
+    },
+    "200": {
+        "icon": "UI_AvatarIcon_Kaeya_Circle",
+        "unlockParam": 10000015
+    },
+    "201": {
+        "icon": "UI_AvatarIcon_KaeyaCostumeDancer_Circle",
+        "unlockParam": 201501
+    },
+    "300": {
+        "icon": "UI_AvatarIcon_Lisa_Circle",
+        "unlockParam": 10000006
+    },
+    "301": {
+        "icon": "UI_AvatarIcon_LisaCostumeStudentin_Circle",
+        "unlockParam": 200601
+    },
+    "400": {
+        "icon": "UI_AvatarIcon_Barbara_Circle",
+        "unlockParam": 10000014
+    },
+    "401": {
+        "icon": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle",
+        "unlockParam": 201401
+    },
+    "500": {
+        "icon": "UI_AvatarIcon_Razor_Circle",
+        "unlockParam": 10000020
+    },
+    "600": {
+        "icon": "UI_AvatarIcon_Xiangling_Circle",
+        "unlockParam": 10000023
+    },
+    "700": {
+        "icon": "UI_AvatarIcon_Beidou_Circle",
+        "unlockParam": 10000024
+    },
+    "800": {
+        "icon": "UI_AvatarIcon_Xingqiu_Circle",
+        "unlockParam": 10000025
+    },
+    "801": {
+        "icon": "UI_AvatarIcon_XingqiuCostumeBamboo_Circle",
+        "unlockParam": 202501
+    },
+    "900": {
+        "icon": "UI_AvatarIcon_Ningguang_Circle",
+        "unlockParam": 10000027
+    },
+    "901": {
+        "icon": "UI_AvatarIcon_NingguangCostumeFloral_Circle",
+        "unlockParam": 202701
+    },
+    "1000": {
+        "icon": "UI_AvatarIcon_Fischl_Circle",
+        "unlockParam": 10000031
+    },
+    "1001": {
+        "icon": "UI_AvatarIcon_FischlCostumeHighness_Circle",
+        "unlockParam": 203101
+    },
+    "1100": {
+        "icon": "UI_AvatarIcon_Bennett_Circle",
+        "unlockParam": 10000032
+    },
+    "1200": {
+        "icon": "UI_AvatarIcon_Noel_Circle",
+        "unlockParam": 10000034
+    },
+    "1300": {
+        "icon": "UI_AvatarIcon_Chongyun_Circle",
+        "unlockParam": 10000036
+    },
+    "1400": {
+        "icon": "UI_AvatarIcon_Sucrose_Circle",
+        "unlockParam": 10000043
+    },
+    "1500": {
+        "icon": "UI_AvatarIcon_Qin_Circle",
+        "unlockParam": 10000003
+    },
+    "1501": {
+        "icon": "UI_AvatarIcon_QinCostumeWic_Circle",
+        "unlockParam": 200302
+    },
+    "1502": {
+        "icon": "UI_AvatarIcon_QinCostumeSea_Circle",
+        "unlockParam": 200301
+    },
+    "1600": {
+        "icon": "UI_AvatarIcon_Diluc_Circle",
+        "unlockParam": 10000016
+    },
+    "1601": {
+        "icon": "UI_AvatarIcon_DilucCostumeFlamme_Circle",
+        "unlockParam": 201601
+    },
+    "1700": {
+        "icon": "UI_AvatarIcon_Qiqi_Circle",
+        "unlockParam": 10000035
+    },
+    "1800": {
+        "icon": "UI_AvatarIcon_Mona_Circle",
+        "unlockParam": 10000041
+    },
+    "1801": {
+        "icon": "UI_AvatarIcon_MonaCostumeWic_Circle",
+        "unlockParam": 204101
+    },
+    "1900": {
+        "icon": "UI_AvatarIcon_Keqing_Circle",
+        "unlockParam": 10000042
+    },
+    "1901": {
+        "icon": "UI_AvatarIcon_KeqingCostumeFeather_Circle",
+        "unlockParam": 204201
+    },
+    "2000": {
+        "icon": "UI_AvatarIcon_Venti_Circle",
+        "unlockParam": 10000022
+    },
+    "2100": {
+        "icon": "UI_AvatarIcon_Klee_Circle",
+        "unlockParam": 10000029
+    },
+    "2101": {
+        "icon": "UI_AvatarIcon_KleeCostumeWitch_Circle",
+        "unlockParam": 202901
+    },
+    "2200": {
+        "icon": "UI_AvatarIcon_Diona_Circle",
+        "unlockParam": 10000039
+    },
+    "2300": {
+        "icon": "UI_AvatarIcon_Tartaglia_Circle",
+        "unlockParam": 10000033
+    },
+    "2400": {
+        "icon": "UI_AvatarIcon_Xinyan_Circle",
+        "unlockParam": 10000044
+    },
+    "2500": {
+        "icon": "UI_AvatarIcon_Zhongli_Circle",
+        "unlockParam": 10000030
+    },
+    "2600": {
+        "icon": "UI_AvatarIcon_Albedo_Circle",
+        "unlockParam": 10000038
+    },
+    "2700": {
+        "icon": "UI_AvatarIcon_Ganyu_Circle",
+        "unlockParam": 10000037
+    },
+    "2701": {
+        "icon": "UI_AvatarIcon_GanyuCostumeYu_Circle",
+        "unlockParam": 203701
+    },
+    "2800": {
+        "icon": "UI_AvatarIcon_Xiao_Circle",
+        "unlockParam": 10000026
+    },
+    "2900": {
+        "icon": "UI_AvatarIcon_Hutao_Circle",
+        "unlockParam": 10000046
+    },
+    "3000": {
+        "icon": "UI_AvatarIcon_Rosaria_Circle",
+        "unlockParam": 10000045
+    },
+    "3001": {
+        "icon": "UI_AvatarIcon_RosariaCostumeWic_Circle",
+        "unlockParam": 204501
+    },
+    "3100": {
+        "icon": "UI_AvatarIcon_Feiyan_Circle",
+        "unlockParam": 10000048
+    },
+    "3200": {
+        "icon": "UI_AvatarIcon_Eula_Circle",
+        "unlockParam": 10000051
+    },
+    "3300": {
+        "icon": "UI_AvatarIcon_Kazuha_Circle",
+        "unlockParam": 10000047
+    },
+    "3400": {
+        "icon": "UI_AvatarIcon_Ayaka_Circle",
+        "unlockParam": 10000002
+    },
+    "3401": {
+        "icon": "UI_AvatarIcon_AyakaCostumeFruhling_Circle",
+        "unlockParam": 200201
+    },
+    "3500": {
+        "icon": "UI_AvatarIcon_Sayu_Circle",
+        "unlockParam": 10000053
+    },
+    "3600": {
+        "icon": "UI_AvatarIcon_Yoimiya_Circle",
+        "unlockParam": 10000049
+    },
+    "3700": {
+        "icon": "UI_AvatarIcon_Aloy_Circle",
+        "unlockParam": 10000062
+    },
+    "3800": {
+        "icon": "UI_AvatarIcon_Sara_Circle",
+        "unlockParam": 10000056
+    },
+    "3900": {
+        "icon": "UI_AvatarIcon_Shougun_Circle",
+        "unlockParam": 10000052
+    },
+    "4000": {
+        "icon": "UI_AvatarIcon_Kokomi_Circle",
+        "unlockParam": 10000054
+    },
+    "4100": {
+        "icon": "UI_AvatarIcon_Tohma_Circle",
+        "unlockParam": 10000050
+    },
+    "4200": {
+        "icon": "UI_AvatarIcon_Gorou_Circle",
+        "unlockParam": 10000055
+    },
+    "4300": {
+        "icon": "UI_AvatarIcon_Itto_Circle",
+        "unlockParam": 10000057
+    },
+    "4400": {
+        "icon": "UI_AvatarIcon_Yunjin_Circle",
+        "unlockParam": 10000064
+    },
+    "4500": {
+        "icon": "UI_AvatarIcon_Shenhe_Circle",
+        "unlockParam": 10000063
+    },
+    "4501": {
+        "icon": "UI_AvatarIcon_ShenheCostumeDai_Circle",
+        "unlockParam": 206301
+    },
+    "4600": {
+        "icon": "UI_AvatarIcon_Yae_Circle",
+        "unlockParam": 10000058
+    },
+    "4700": {
+        "icon": "UI_AvatarIcon_Ayato_Circle",
+        "unlockParam": 10000066
+    },
+    "4800": {
+        "icon": "UI_AvatarIcon_Yelan_Circle",
+        "unlockParam": 10000060
+    },
+    "4900": {
+        "icon": "UI_AvatarIcon_Shinobu_Circle",
+        "unlockParam": 10000065
+    },
+    "5000": {
+        "icon": "UI_AvatarIcon_Heizo_Circle",
+        "unlockParam": 10000059
+    },
+    "5100": {
+        "icon": "UI_AvatarIcon_Collei_Circle",
+        "unlockParam": 10000067
+    },
+    "5200": {
+        "icon": "UI_AvatarIcon_Tighnari_Circle",
+        "unlockParam": 10000069
+    },
+    "5300": {
+        "icon": "UI_AvatarIcon_Dori_Circle",
+        "unlockParam": 10000068
+    },
+    "5400": {
+        "icon": "UI_AvatarIcon_Candace_Circle",
+        "unlockParam": 10000072
+    },
+    "5500": {
+        "icon": "UI_AvatarIcon_Cyno_Circle",
+        "unlockParam": 10000071
+    },
+    "5600": {
+        "icon": "UI_AvatarIcon_Nilou_Circle",
+        "unlockParam": 10000070
+    },
+    "5700": {
+        "icon": "UI_AvatarIcon_Nahida_Circle",
+        "unlockParam": 10000073
+    },
+    "5800": {
+        "icon": "UI_AvatarIcon_Layla_Circle",
+        "unlockParam": 10000074
+    },
+    "5900": {
+        "icon": "UI_AvatarIcon_Faruzan_Circle",
+        "unlockParam": 10000076
+    },
+    "6000": {
+        "icon": "UI_AvatarIcon_Wanderer_Circle",
+        "unlockParam": 10000075
+    },
+    "6100": {
+        "icon": "UI_AvatarIcon_Yaoyao_Circle",
+        "unlockParam": 10000077
+    },
+    "6200": {
+        "icon": "UI_AvatarIcon_Alhatham_Circle",
+        "unlockParam": 10000078
+    },
+    "6300": {
+        "icon": "UI_AvatarIcon_Dehya_Circle",
+        "unlockParam": 10000079
+    },
+    "6400": {
+        "icon": "UI_AvatarIcon_Mika_Circle",
+        "unlockParam": 10000080
+    },
+    "6500": {
+        "icon": "UI_AvatarIcon_Kaveh_Circle",
+        "unlockParam": 10000081
+    },
+    "6600": {
+        "icon": "UI_AvatarIcon_Baizhuer_Circle",
+        "unlockParam": 10000082
+    },
+    "6700": {
+        "icon": "UI_AvatarIcon_Momoka_Circle",
+        "unlockParam": 10000061
+    },
+    "6800": {
+        "icon": "UI_AvatarIcon_Linette_Circle",
+        "unlockParam": 10000083
+    },
+    "6900": {
+        "icon": "UI_AvatarIcon_Liney_Circle",
+        "unlockParam": 10000084
+    },
+    "7000": {
+        "icon": "UI_AvatarIcon_Freminet_Circle",
+        "unlockParam": 10000085
+    },
+    "7100": {
+        "icon": "UI_AvatarIcon_Neuvillette_Circle",
+        "unlockParam": 10000087
+    },
+    "7200": {
+        "icon": "UI_AvatarIcon_Wriothesley_Circle",
+        "unlockParam": 10000086
+    },
+    "7300": {
+        "icon": "UI_AvatarIcon_Charlotte_Circle",
+        "unlockParam": 10000088
+    },
+    "7400": {
+        "icon": "UI_AvatarIcon_Furina_Circle",
+        "unlockParam": 10000089
+    },
+    "7500": {
+        "icon": "UI_AvatarIcon_Navia_Circle",
+        "unlockParam": 10000091
+    },
+    "7600": {
+        "icon": "UI_AvatarIcon_Chevreuse_Circle",
+        "unlockParam": 10000090
+    },
+    "7700": {
+        "icon": "UI_AvatarIcon_Gaming_Circle",
+        "unlockParam": 10000092
+    },
+    "7800": {
+        "icon": "UI_AvatarIcon_Liuyun_Circle",
+        "unlockParam": 10000093
+    },
+    "7900": {
+        "icon": "UI_AvatarIcon_Chiori_Circle",
+        "unlockParam": 10000094
+    },
+    "8000": {
+        "icon": "UI_AvatarIcon_Arlecchino_Circle",
+        "unlockParam": 10000096
+    },
+    "8100": {
+        "icon": "UI_AvatarIcon_Clorinde_Circle",
+        "unlockParam": 10000098
+    },
+    "8200": {
+        "icon": "UI_AvatarIcon_Sethos_Circle",
+        "unlockParam": 10000097
+    },
+    "8300": {
+        "icon": "UI_AvatarIcon_Sigewinne_Circle",
+        "unlockParam": 10000095
+    },
+    "99999": {
+        "icon": "UI_AvatarIcon_Ambor_Circle",
+        "unlockParam": 320001
+    },
+    "100010": {
+        "icon": "UI_AvatarIcon_72105_Circle",
+        "unlockParam": 72105
+    },
+    "100020": {
+        "icon": "UI_AvatarIcon_72158_Circle",
+        "unlockParam": 72158
+    },
+    "100030": {
+        "icon": "UI_AvatarIcon_72173_Circle",
+        "unlockParam": 72173
+    },
+    "100040": {
+        "icon": "UI_AvatarIcon_72177_Circle",
+        "unlockParam": 72177
+    },
+    "100050": {
+        "icon": "UI_AvatarIcon_71045_Circle",
+        "unlockParam": 71045
+    },
+    "100060": {
+        "icon": "UI_AvatarIcon_73038_Circle",
+        "unlockParam": 73038
+    },
+    "100070": {
+        "icon": "UI_AvatarIcon_73055_Circle",
+        "unlockParam": 73055
+    },
+    "100080": {
+        "icon": "UI_AvatarIcon_73220_Circle",
+        "unlockParam": 73220
+    },
+    "100090": {
+        "icon": "UI_AvatarIcon_73232_Circle",
+        "unlockParam": 73232
+    },
+    "100100": {
+        "icon": "UI_AvatarIcon_74007_Circle",
+        "unlockParam": 74007
+    },
+    "100110": {
+        "icon": "UI_AvatarIcon_74004_Circle",
+        "unlockParam": 74004
+    },
+    "100120": {
+        "icon": "UI_AvatarIcon_74028_Circle",
+        "unlockParam": 74028
+    },
+    "100130": {
+        "icon": "UI_AvatarIcon_74053_Circle",
+        "unlockParam": 74053
+    },
+    "100140": {
+        "icon": "UI_AvatarIcon_74078_Circle",
+        "unlockParam": 74078
+    },
+    "100150": {
+        "icon": "UI_AvatarIcon_74085_Circle",
+        "unlockParam": 74085
+    },
+    "100160": {
+        "icon": "UI_AvatarIcon_71100_Circle",
+        "unlockParam": 71100
+    },
+    "100170": {
+        "icon": "UI_AvatarIcon_74196_Circle",
+        "unlockParam": 74196
+    }
+}

@@ -1,7 +1,7 @@
 import logging
 
 from pydantic import BaseModel, Field
-from typing import List, Any, Union
+from typing import List, Any
 
 from .utils import IconAsset
 
@@ -22,28 +22,18 @@ class ProfilePicture(BaseModel):
         API Response data
     """
     id: int = Field(0, alias="avatarId")
-
-    """
-        Custom add data
-    """
-    icon: IconAsset = None
+    image_id: int = 0
 
     def __init__(self, **data: Any) -> None:
         super().__init__(**data)
 
         # Get character
         LOGGER.debug("=== Avatar ===")
+        if "id" in data:
+            self.image_id = Assets.avatar_id(int(data["id"]))
+            self.id = self.image_id
         if "avatarId" in data:
-            if "costumeId" in data:
-                _data = Assets.character_costume(str(data["costumeId"]))
-                icon = _data.images if _data is not None else _data
-            else:
-                icon = Assets.character_icon(str(data["avatarId"]))
-
-            if not icon:
-                return
-
-            self.icon = icon.icon
+            self.image_id = data.get("costumeId", data["avatarId"])
 
 
 class showAvatar(BaseModel):
