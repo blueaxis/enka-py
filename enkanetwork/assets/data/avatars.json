@@ -299,6 +299,10 @@
         "icon": "UI_AvatarIcon_Nilou_Circle",
         "unlockParam": 10000070
     },
+    "5601": {
+        "icon": "UI_AvatarIcon_NilouCostumeFairy_Circle",
+        "unlockParam": 207001
+    },
     "5700": {
         "icon": "UI_AvatarIcon_Nahida_Circle",
         "unlockParam": 10000073
@@ -342,6 +346,10 @@
     "6700": {
         "icon": "UI_AvatarIcon_Momoka_Circle",
         "unlockParam": 10000061
+    },
+    "6701": {
+        "icon": "UI_AvatarIcon_MomokaCostumeErrantry_Circle",
+        "unlockParam": 206101
     },
     "6800": {
         "icon": "UI_AvatarIcon_Linette_Circle",
@@ -406,6 +414,10 @@
     "8300": {
         "icon": "UI_AvatarIcon_Sigewinne_Circle",
         "unlockParam": 10000095
+    },
+    "8400": {
+        "icon": "UI_AvatarIcon_Emilie_Circle",
+        "unlockParam": 10000099
     },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
