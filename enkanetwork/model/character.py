@@ -70,7 +70,7 @@ class CharacterInfo(BaseModel):
         super().__init__(**data)
 
         # Friendship level
-        self.friendship_level = data["fetterInfo"]["expLevel"]
+        self.friendship_level = data["fetterInfo"].get("expLevel", 0)
 
         # Get prop map
         self.xp = int(data["propMap"]["1001"].get("ival", 0)) if "1001" in data["propMap"] else 0
