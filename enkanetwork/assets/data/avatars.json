@@ -431,6 +431,10 @@
         "icon": "UI_AvatarIcon_Kinich_Circle",
         "unlockParam": 10000101
     },
+    "8800": {
+        "icon": "UI_AvatarIcon_Xilonen_Circle",
+        "unlockParam": 10000103
+    },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
         "unlockParam": 320001
