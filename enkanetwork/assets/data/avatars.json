@@ -435,6 +435,14 @@
         "icon": "UI_AvatarIcon_Xilonen_Circle",
         "unlockParam": 10000103
     },
+    "8900": {
+        "icon": "UI_AvatarIcon_Olorun_Circle",
+        "unlockParam": 10000105
+    },
+    "9000": {
+        "icon": "UI_AvatarIcon_Chasca_Circle",
+        "unlockParam": 10000104
+    },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
         "unlockParam": 320001
@@ -510,5 +518,9 @@
     "100180": {
         "icon": "UI_AvatarIcon_75002_Circle",
         "unlockParam": 75002
+    },
+    "100190": {
+        "icon": "UI_AvatarIcon_75048_Circle",
+        "unlockParam": 75138
     }
 }
