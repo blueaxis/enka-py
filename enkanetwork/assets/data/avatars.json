@@ -47,6 +47,10 @@
         "icon": "UI_AvatarIcon_Xiangling_Circle",
         "unlockParam": 10000023
     },
+    "601": {
+        "icon": "UI_AvatarIcon_XianglingCostumeWinter_Circle",
+        "unlockParam": 202301
+    },
     "700": {
         "icon": "UI_AvatarIcon_Beidou_Circle",
         "unlockParam": 10000024
@@ -178,6 +182,10 @@
     "2900": {
         "icon": "UI_AvatarIcon_Hutao_Circle",
         "unlockParam": 10000046
+    },
+    "2901": {
+        "icon": "UI_AvatarIcon_HutaoCostumeWinter_Circle",
+        "unlockParam": 204601
     },
     "3000": {
         "icon": "UI_AvatarIcon_Rosaria_Circle",
@@ -442,6 +450,18 @@
     "9000": {
         "icon": "UI_AvatarIcon_Chasca_Circle",
         "unlockParam": 10000104
+    },
+    "9100": {
+        "icon": "UI_AvatarIcon_Citlali_Circle",
+        "unlockParam": 10000107
+    },
+    "9200": {
+        "icon": "UI_AvatarIcon_Mavuika_Circle",
+        "unlockParam": 10000106
+    },
+    "9300": {
+        "icon": "UI_AvatarIcon_Lanyan_Circle",
+        "unlockParam": 10000108
     },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
