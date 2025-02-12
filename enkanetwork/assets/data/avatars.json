@@ -463,6 +463,10 @@
         "icon": "UI_AvatarIcon_Lanyan_Circle",
         "unlockParam": 10000108
     },
+    "9400": {
+        "icon": "UI_AvatarIcon_Mizuki_Circle",
+        "unlockParam": 10000109
+    },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
         "unlockParam": 320001
